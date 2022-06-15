@@ -1,0 +1,25 @@
+
+.column{
+    padding: 0;
+}
+
+.second-part {
+    border: 1px solid #babaca;
+    border-radius: 4px;
+    padding: 5px;
+}
+
+.columns {
+    gap: 10px;
+    border-radius: 0.4px;
+
+}
+
+.image{
+    display: flex;
+}
+
+figure.image{
+    margin-left: 0.5em;
+
+}
