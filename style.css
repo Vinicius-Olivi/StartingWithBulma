@@ -23,3 +23,22 @@ figure.image{
     margin-left: 0.5em;
 
 }
+
+.exp {
+    display: flex;
+    align-items: center;
+    justify-content: left;
+    margin-bottom: 20px;
+}
+
+.round {
+    display: flex;
+}
+
+.project {
+    width: 80%;
+}
+
+.footer {
+    background-color: #F14668;
+}
